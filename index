@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>
+            BEST FRIEND
+        </title>
+    </head>
+    <body>
+            <h1 style="color:rgb(19, 98, 7)"> MY FRIEND </h1>
+        <h2 style="color:rgb(0, 0, 0)"> Friend's <spam style="color:rgb(187, 10, 152)">daily routine.</spam></h2>
+        <ol>
+            <li> Wake up: 6 am </li>
+            <li> Fresh up </li>
+            <li> Breakfast </li>
+            <li> College </li>
+            <li> Eats lunch </li>
+            <li> Returns home</li>
+            <li> Eats dinner </li>
+          <li>Watch Movies</li>
+            <li>Sleep</li>
+        </ol>
+        <h2 style="color:rgb(0,0,255)"> My friend's favorite places</h2>
+        <ul>
+            <li> Beach </li>
+            <li> America </li>
+            <li> London </li>
+        </ul>
+    <table>
+        <tr>
+            <th> Name </th>
+            <th> Birthday </th>
+            <th> Zodiac sign </th>
+            <th> Loves to eat </th>
+            <th> Hobby </th>
+        </tr>
+        <tr>
+          <td> nashili </td>
+            <td> 29th june </td>
+            <td> cancer </td>
+            <td> chocolate </td>
+            <td> drawing </td>
+       <tr>
+            
+          
+        </tr>
+    </table>
+    </body>
+</html>
