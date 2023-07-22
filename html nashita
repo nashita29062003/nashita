@@ -1,0 +1,114 @@
+<!Doctype html>
+<html>
+    <head>
+
+        <title>
+            My friends daily routine
+        </title>
+        
+        <link rel="stylesheet" type="text/css" href="Style.css">
+    </head>
+
+    <body style="color: blueviolet;">
+        <h1> BEST FRIENDS</h1>
+        <div class="container1">
+            <div>
+                <img src="image.png" alt="MY CREW" height="400" width="1000">
+
+            </div>
+            <div class="text">
+            <p>The love that comes from FRIENDSHIP is the underlying fact of a happy life.</p>     
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class = "container2">
+            <div class="places">
+                <h2> Our Favourite places </h2>
+                <ul>
+                    <li>CMR CENTRAL</li>
+                    <li> RK Beach</li>
+                    <li>Shivaji park</li>
+                    <li>rishikonda</li>
+                </ul>
+            </div>
+            <div class="food">
+           
+                <h2> Favourite food</h2>
+                <ol>
+                    <li>yasodha restaurent biryani</li>
+                    <li>manchurian biryani</li>
+                    <li>mangoes</li>
+                    <li>
+                        maddilapalem noodles 
+                    </li>
+                </ol>
+            </div>
+        </div>
+
+                <table>
+                    <thead>
+                        <th>Name</th>
+                        <th>Birthday</th>
+                        <th>Favourite color</th>
+                        <th>Hobby</th>
+                        <th>Fav TvShow</th>
+                        <th>Favourite Movie</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                           <td>
+                               Aruna
+                           </td>
+                            <td>23 oct 2002</td>
+                            <td>Green</td>
+                            <td>Watching series</td>
+                            <td>Keeping up with kardashia</td>
+                            <td>Avatar</td>
+                        </tr>
+                        <tr>
+                            <td>Madhuri</td>
+                            <td>31 July 2003</td>
+                            <td>Black</td>
+                            <td>Simping Idols</td>
+                            <td>Man Vs wild</td>
+                            <td>Orange</td>
+                        </tr>
+                        <tr>
+                            <td>Ramya</td>
+                            <td>21 Feb 2003</td>
+                            <td>Purple</td>
+                            <td>Reading Books</td>
+                            <td>Science of stupid</td>
+                            <td>The Lion King</td>
+                        </tr>
+                        <tr>
+                            <td>Lahitha</td>
+                            <td>11 May 2002</td>
+                            <td>White</td>
+                            <td>Listening to Music</td>
+                            <td>Shinchan</td>
+                            <td>Virupaksha</td>
+                        </tr>
+                        <tr>
+                            <td>Roshini</td>
+                            <td>04 Nov 2002</td>
+                            <td>Cyan</td>
+                            <td>Web surfing</td>
+                            <td>Takeshi's Castle</td>
+                            <td>Oye!</td>
+                        </tr>
+                        <tr>
+                            <td>Bhargavi</td>
+                            <td>07 Dec 2002</td>
+                            <td>Royal blue</td>
+                            <td>Watching movies</td>
+                            <td>Splitsvilla</td>
+                            <td>Majnu</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br> <br>
+                
+        </body>
+</html>
