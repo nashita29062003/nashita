@@ -1,0 +1,40 @@
+
+#a1 {
+	 color: blue ;
+    }
+#a2 {
+	 color: red ;
+    }
+#a3 {
+	 color: blueviolet ;
+    }
+#a4 {
+	 color: yellow ;
+    }
+#a5 {
+	 color: green ;
+    }
+h1 {
+     text-align: center;
+   }
+.a1 {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 50vh;
+     }
+  div.a4{
+	      text-align:center;
+        }
+ ol.a3{
+       display: inline-block;
+       text-align:left;
+      }
+
+h3 {
+	text-align: center;
+   }
+.a2 {
+	margin-left: auto;
+	margin-right: auto;
+    }
